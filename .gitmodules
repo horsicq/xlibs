@@ -1,0 +1,9 @@
+[submodule "XArchive"]
+	path = XArchive
+	url = https://github.com/horsicq/XArchive
+[submodule "XCapstone"]
+	path = XCapstone
+	url = https://github.com/horsicq/XCapstone
+[submodule "XCppfilt"]
+	path = XCppfilt
+	url = https://github.com/horsicq/XCppfilt
