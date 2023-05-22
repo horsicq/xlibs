@@ -7,3 +7,6 @@
 [submodule "XCppfilt"]
 	path = XCppfilt
 	url = https://github.com/horsicq/XCppfilt
+[submodule "XYara"]
+	path = XYara
+	url = https://github.com/horsicq/XYara
