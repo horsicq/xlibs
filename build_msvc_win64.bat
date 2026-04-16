@@ -3,4 +3,5 @@ set QMAKE_PATH="C:\Qt\5.15.2\msvc2019_64\bin\qmake.exe"
 
 set X_SOURCE_PATH=%~dp0
 
+set X_PORTABLE=1
 call %X_SOURCE_PATH%\build_win_generic.cmd
